@@ -1,0 +1,8 @@
+.idea/
+*.iml
+*.log
+*.class
+.vscode/
+.project-backup/
+ignore
+apache-maven-*.tar.gz
